@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">System Bot: your system, in the conversation</title>
+  <desc id="desc">A navy, cyan, and purple project banner with an illustrative system report showing CPU, RAM, disk, uptime, and process count.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#21163e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#35d9ee"/><stop offset="1" stop-color="#aa83ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="1160" cy="20" r="220" fill="#8b5cf6" opacity=".1"/>
+  <circle cx="80" cy="460" r="175" fill="#22d3ee" opacity=".07"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="56" y="54" width="212" height="32" rx="16" fill="#243552"/>
+    <text x="76" y="76" fill="#77e6f3" font-size="14" font-weight="700" letter-spacing="2">PYTHON × TELEGRAM</text>
+    <text x="56" y="167" fill="#fff" font-size="64" font-weight="800">SYSTEM BOT</text>
+    <text x="59" y="214" fill="#d0ccec" font-size="25">Your system, in the conversation.</text>
+    <text x="59" y="266" fill="#aab9d2" font-size="18">Five metrics. One message. A clearer picture.</text>
+    <path d="M59 318 H122 L143 288 L167 341 L193 309 H259 L277 289 L299 323 H523" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="58" y="381" width="148" height="40" rx="10" fill="#28c9df"/>
+    <text x="91" y="407" fill="#102039" font-size="18" font-weight="700">/status</text>
+    <rect x="220" y="381" width="164" height="40" rx="10" fill="#9a78ed"/>
+    <text x="249" y="407" fill="#101b35" font-size="18" font-weight="700">/monitor</text>
+    <text x="416" y="407" fill="#9baac5" font-size="14">KODLAND PROJECT</text>
+    <rect x="654" y="46" width="490" height="388" rx="20" fill="#131e34" stroke="#3a4262"/>
+    <circle cx="687" cy="78" r="6" fill="#55e3b1"/>
+    <text x="705" y="84" fill="#e5edff" font-size="17" font-weight="700">SYSTEM STATUS</text>
+    <text x="1027" y="84" fill="#90a1be" font-size="12">PREVIEW</text>
+    <path d="M678 105 H1120" stroke="#303b56"/>
+    <text x="683" y="141" fill="#aab9d2" font-size="17">CPU usage</text><text x="1108" y="141" text-anchor="end" fill="#65e4ef" font-size="19" font-weight="700">12.4%</text>
+    <rect x="683" y="156" width="425" height="8" rx="4" fill="#293650"/><rect x="683" y="156" width="53" height="8" rx="4" fill="#35d9ee"/>
+    <text x="683" y="202" fill="#aab9d2" font-size="17">RAM usage</text><text x="1108" y="202" text-anchor="end" fill="#ba9cff" font-size="19" font-weight="700">43.8%</text>
+    <rect x="683" y="217" width="425" height="8" rx="4" fill="#293650"/><rect x="683" y="217" width="186" height="8" rx="4" fill="#a483fa"/>
+    <text x="683" y="263" fill="#aab9d2" font-size="17">Disk usage</text><text x="1108" y="263" text-anchor="end" fill="#ffb592" font-size="19" font-weight="700">61.2%</text>
+    <rect x="683" y="278" width="425" height="8" rx="4" fill="#293650"/><rect x="683" y="278" width="260" height="8" rx="4" fill="#ffab80"/>
+    <text x="683" y="334" fill="#aab9d2" font-size="17">Uptime</text><text x="1108" y="334" text-anchor="end" fill="#e5edff" font-size="17">2d 5h 18m</text>
+    <text x="683" y="371" fill="#aab9d2" font-size="17">Running processes</text><text x="1108" y="371" text-anchor="end" fill="#e5edff" font-size="17">167</text>
+    <text x="683" y="410" fill="#90a1be" font-size="12">ILLUSTRATIVE DATA · VALUES VARY BY MACHINE</text>
+  </g>
+</svg>
